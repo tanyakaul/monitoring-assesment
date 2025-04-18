@@ -4,5 +4,5 @@ server2 ansible_host=10.0.0.2
 server3 ansible_host=10.0.0.3
 
 [node_exporters:vars]
-ansible_user=ubuntu
+ansible_user=testuser1
 ansible_ssh_private_key_file=~/.ssh/id_rsa
